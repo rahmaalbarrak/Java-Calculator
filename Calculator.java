@@ -56,9 +56,10 @@ public class Calculator {
            if (num2 == 0) {
              return NaN;
             }
-           System.out.println("Modulo feature from branch A");
+         System.out.println("Modulo feature from both branches merged");
           return num1 % num2;
-        }
+  
+         }
 
         // never reach
         throw new Error();
