@@ -56,7 +56,7 @@ public class Calculator {
            if (num2 == 0) {
              return NaN;
             }
-           System.out.println("Modulo feature from branch ");
+           System.out.println("Modulo feature from branch B ");
           return num1 % num2;
 }
 
